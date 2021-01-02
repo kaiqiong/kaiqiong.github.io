@@ -12,7 +12,7 @@ author_profile: true
 * McGill Initiative in Computational Medicine Research Day, McGill University, Dec 2020
   * Title: Consequences of CTCF H284 mutation -- a motif binding analysis using ChIP-Seq data. [Slides](/files/Slides/Zhao_Kaiqiong_MICM.pdf)
 * Statistics Seminar, Département de mathématiques, UQAM, Oct 2020
-  * Title: Smooth modeling of covariate effects in bisulfite sequencing-derived measures of DNA methylation.[Slides](/files/Slides/Seminar_uqam_Oct8_2020.pdf)
+  * Title: Smooth modeling of covariate effects in bisulfite sequencing-derived measures of DNA methylation. [Slides](/files/Slides/Seminar_uqam_Oct8_2020.pdf)
 
 ## Contributed Talks
 
