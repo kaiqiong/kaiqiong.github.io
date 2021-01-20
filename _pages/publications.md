@@ -7,14 +7,16 @@ author_profile: true
 
 ### Published Articles
 
-- **Zhao K.**, Oualkacha, K., Lakhal-Chaieb, L., Labbe, A., Klein, K., Shao, X., Bernatsky, S., Hudson, M., Colmegna, I., Pastinen, T., Zhang, T., Daley, D. & Greenwood, C.M.  Detecting differentially methylated regions in bisulfite sequencing data using quasi-binomial mixed models with smooth covariate effect estimates.   *arXiv* (2021). [Link to paper](https://arxiv.org/abs/xxx) & [R package](https://github.com/kaiqiong/SOMNiBUS) 
+- **Zhao K.**, Oualkacha, K., Lakhal-Chaieb, L., Labbe, A., Klein, K., Shao, X., Bernatsky, S., Hudson, M., Colmegna, I., Pastinen, T., Zhang, T., Daley, D. & Greenwood, C.M.  Detecting differentially methylated regions in bisulfite sequencing data using quasi-binomial mixed models with smooth covariate effect estimates.   *arXiv* (2021). [Link to paper](https://arxiv.org/abs/2101.07374) & [R package](https://github.com/kaiqiong/SOMNiBUS) 
 
 - **Zhao, K.**,  Oualkacha, K., Lakhal-Chaieb, L., Labbe, A., Klein, K., Ciampi, A., Hudson, M., Colmegna, I., Pastinen, T., Zhang, T., Daley, D. & Greenwood, C.M. A novel statistical method for modeling covariate effects in bisulfite sequencing derived measures of DNA methylation. *Biometrics* (2020). [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13307) & [R package](https://github.com/kaiqiong/SOMNiBUS)
 
 - Alqahtani, M., Garfinkle, R., **Zhao, K.**, Vasilevsky, C.A., Morin, N., Ghitulescu, G., Faria, J. &  Boutros, M. Can we better predict readmission for dehydration following creation of a diverting loop ileostomy: development and validation of a prediction model and web-based risk calculator. *Surgical Endoscopy* (2020). [Link to paper](https://link.springer.com/article/10.1007%2Fs00464-019-07069-2) & [Software](https://kaiqiong.shinyapps.io/dehydration_app/)
 
 - Caillon, A., **Zhao, K**., Klein, K., Greenwood, C.M., Lu, Z., Paradis, P. &  Schiffrin, E.
-	 High systolic blood pressure at hospital admission is an important risk factor in models predicting outcome of COVID-19 patients. To appear in *American Journal of Hypertension* (2020). 
+	 High systolic blood pressure at hospital admission is an important risk factor in models predicting outcome of COVID-19 patients. *American Journal of Hypertension* (2021). [Link to paper](https://academic.oup.com/ajh/advance-article/doi/10.1093/ajh/hpaa225/6056792) 
+	
+- Caminsky, N., Hamad, D., He, H.B., **Zhao, K**., Boutros, M., Feldman, L.S., Lee, L. & Fiore, J.F. Optimizing discharge decision-making in colorectal surgery: a prospective cohort study of discharge practices in a recently implemented enhanced recovery pathway. *Colorectal Dis* (2021). [Link to paper](https://doi.org/10.1111/codi.15525)
 
 - Manousaki, D., Forgetta, V., Keller‐Baruch, J., **Zhao, K.**, Greenwood, C.M., Mooser, V., Bassett, J.D., Leslie, W.D. &  Richards, J.B.
 	A polygenic risk score as a risk factor for medication‐associated fractures. *Journal of Bone and Mineral Research* (2020). [Link to paper](https://asbmr.onlinelibrary.wiley.com/doi/abs/10.1002/jbmr.4104) 
