@@ -7,7 +7,7 @@ author_profile: true
 
 ### Published Articles
 
-- **Zhao K.**, Oualkacha, K., Lakhal-Chaieb, L., Labbe, A., Klein, K., Shao, X., Bernatsky, S., Hudson, M., Colmegna, I., Pastinen, T., Zhang, T., Daley, D. & Greenwood, C.M.  Detecting differentially methylated regions in bisulfite sequencing data using quasi-binomial mixed models with smooth covariate effect estimates.   *arXiv* (2021). [Link to paper](https://arxiv.org/abs/2101.07374) & [R package](https://github.com/kaiqiong/SOMNiBUS) 
+- **Zhao K.**, Oualkacha, K., Lakhal-Chaieb, L., Labbe, A., Klein, K., Bernatsky, S., Hudson, M., Colmegna, I. & Greenwood, C.M.  Detecting differentially methylated regions in bisulfite sequencing data using quasi-binomial mixed models with smooth covariate effect estimates.   *arXiv* (2021). [Link to paper](https://arxiv.org/abs/2101.07374) & [R package](https://github.com/kaiqiong/SOMNiBUS) 
 
 - **Zhao, K.**,  Oualkacha, K., Lakhal-Chaieb, L., Labbe, A., Klein, K., Ciampi, A., Hudson, M., Colmegna, I., Pastinen, T., Zhang, T., Daley, D. & Greenwood, C.M. A novel statistical method for modeling covariate effects in bisulfite sequencing derived measures of DNA methylation. *Biometrics* (2020). [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13307) & [R package](https://github.com/kaiqiong/SOMNiBUS)
 
