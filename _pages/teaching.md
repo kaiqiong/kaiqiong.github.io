@@ -15,7 +15,7 @@ author_profile: true
 
 * EPIB 621: Data Analysis in Health Sciences
 
-  * McGill University,Winter 2018
+  * McGill University, Winter 2018
 
 * EPIB 607: Inferential Statistics
 
