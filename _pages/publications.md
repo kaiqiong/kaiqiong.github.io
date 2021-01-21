@@ -16,8 +16,7 @@ author_profile: true
 - Caillon, A., **Zhao, K**., Klein, K., Greenwood, C.M., Lu, Z., Paradis, P. &  Schiffrin, E.
 	 High systolic blood pressure at hospital admission is an important risk factor in models predicting outcome of COVID-19 patients. *American Journal of Hypertension* (2021). [Link to paper](https://academic.oup.com/ajh/advance-article/doi/10.1093/ajh/hpaa225/6056792) 
 	
-- Zhou, S., Butler-Laporte, G., Nakanishi, T., Morrison, D., Afilalo, J., Afilalo, M., Laurent, L., Pietzner, M., Kerrison, N., **Zhao, K**., \ldots, Richards, M.  
-    A Neanderthal OAS1 Isoform Protects Against COVID-19 Susceptibility and Severity: Results from Mendelian Randomization and Case-Control Studies. *Nature Medicine* (2021). Accepted.
+- Zhou, S., Butler-Laporte, G., Nakanishi, T., Morrison, D., Afilalo, J., Afilalo, M., Laurent, L., Pietzner, M., Kerrison, N., **Zhao, K**., ..., Richards, M.  A Neanderthal OAS1 Isoform Protects Against COVID-19 Susceptibility and Severity: Results from Mendelian Randomization and Case-Control Studies. *Nature Medicine* (2021). Accepted.
 	
 - Caminsky, N., Hamad, D., He, H.B., **Zhao, K**., Boutros, M., Feldman, L.S., Lee, L. & Fiore, J.F. Optimizing discharge decision-making in colorectal surgery: a prospective cohort study of discharge practices in a recently implemented enhanced recovery pathway. *Colorectal Dis* (2021). [Link to paper](https://doi.org/10.1111/codi.15525)
 
