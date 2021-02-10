@@ -9,6 +9,7 @@ author_profile: true
 
 - [SOMNiBUS](https://bioconductor.org/packages/3.13/bioc/html/SOMNiBUS.html)
 [![](https://img.shields.io/badge/download-/month-green.svg)](https://bioconductor.org/packages/stats/bioc/SOMNiBUS)
+[![](https://img.shields.io/badge/lifecycle-SOMNiBUS-blue.svg)](https://www.tidyverse.org/lifecycle/#SOMNiBUS)
 
 A method for estimating smooth covariate effects and identifying differentially methylated regions, which copes with experimental errors and provides reliable inference. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13307)
 
