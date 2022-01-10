@@ -7,6 +7,11 @@ author_profile: true
 
 ## Course Instructor
 
+* STAT 161: Introductory Statistics for Business and Economics
+ * University of Alberta, Winter 2022
+
+
+
 * EPIB 521: Regression Analysis for Health Sciences
   * McGill University, Winter 2020
 
