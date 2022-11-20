@@ -16,7 +16,7 @@ author_profile: true
 - Alqahtani, M., Garfinkle, R., **Zhao, K.**, Vasilevsky, C.A., Morin, N., Ghitulescu, G., Faria, J. &  Boutros, M. Can we better predict readmission for dehydration following creation of a diverting loop ileostomy: development and validation of a prediction model and web-based risk calculator. *Surgical Endoscopy* (2020). [Link to paper](https://link.springer.com/article/10.1007%2Fs00464-019-07069-2) & [Software](https://kaiqiong.shinyapps.io/dehydration_app/)
 
 	
--Zeng, Y., **Zhao, K.**, Oros Klein, K., Shao, X., Fritzler, M.J., Hudson, M., Colmegna, I., Pastinen, T., Bernatsky, S. & Greenwood, C.M.T. Thousands of CpGs Show DNA Methylation Differences in ACPA-Positive Individuals.*Genes* (2021). [Link to paper](https://www.mdpi.com/2073-4425/12/9/1349)
+- Zeng, Y., **Zhao, K.**, Oros Klein, K., Shao, X., Fritzler, M.J., Hudson, M., Colmegna, I., Pastinen, T., Bernatsky, S. & Greenwood, C.M.T. Thousands of CpGs Show DNA Methylation Differences in ACPA-Positive Individuals.*Genes* (2021). [Link to paper](https://www.mdpi.com/2073-4425/12/9/1349)
 
 - Caillon, A., **Zhao, K**., Klein, K., Greenwood, C.M., Lu, Z., Paradis, P. &  Schiffrin, E.
 	 High systolic blood pressure at hospital admission is an important risk factor in models predicting outcome of COVID-19 patients. *American Journal of Hypertension* (2021). [Link to paper](https://academic.oup.com/ajh/advance-article/doi/10.1093/ajh/hpaa225/6056792) 
