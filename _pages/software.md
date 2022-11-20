@@ -24,4 +24,4 @@ A bioinformatics tool for a sensitive identification, at the single base-pair re
 ## Shiny Application
 
 - A web-based **Risk Calculator for Readmission for Dehydration following Creation of a  Diverting Loop Ileostomy**.
-	[Website](https://kaiqiong.shinyapps.io/dehydration_app/). [Paper](https://link.springer.com/article/10.1007%2Fs00464-019-07069-2)
+	[Website](https://kaiqiong.shinyapps.io/dehydration_app/). [Paper] (https://link.springer.com/article/10.1007%2Fs00464-019-07069-2)
