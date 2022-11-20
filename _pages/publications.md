@@ -9,16 +9,19 @@ author_profile: true
 
 - $^\star$Lebeau, B., $^\star$ **Zhao, K.**, Jangal, M., Zhao, T., Guerra, M., Greenwood, C.M.T. &  Witcher, M.  Single base-pair resolution analysis of DNA binding motif with MoMotif reveals an oncogenic function of CTCF zinc-finger 1 mutation. *Nucleic Acids Research* (2022). $^\star$ co-first authorship. [Link to paper](https://academic.oup.com/nar/article/50/15/8441/6659876?login=false) & [R package](https://github.com/kaiqiong/MoMotif)
 
-- **Zhao K.**, Oualkacha, K., Lakhal-Chaieb, L., Labbe, A., Klein, K., Bernatsky, S., Hudson, M., Colmegna, I. & Greenwood, C.M.  A hierarchical quasi-binomial varying coefficient mixed model for detecting differentially methylated regions in bisulfite sequencing data: applications to a preclinical study on rheumatoid arthritis.   *Submitted* (2022+). [Link to paper](https://arxiv.org/abs/2101.07374) & [R package](https://github.com/kaiqiong/SOMNiBUS) 
+- **Zhao K.**, Oualkacha, K., Zeng, Y., Shen, C., Lakhal-Chaieb, L., Labbe, A., Klein, K.,  Hudson, M., Colmegna, I., Pastinen, T., Bernatsky, S., & Greenwood, C.M.T.  A hierarchical quasi-binomial varying coefficient mixed model for detecting differentially methylated regions in bisulfite sequencing data: applications to a preclinical study on rheumatoid arthritis.   *Submitted* (2022+). [Link to paper](https://arxiv.org/abs/2101.07374) & [R package](https://github.com/kaiqiong/SOMNiBUS) 
 
 - **Zhao, K.**,  Oualkacha, K., Lakhal-Chaieb, L., Labbe, A., Klein, K., Ciampi, A., Hudson, M., Colmegna, I., Pastinen, T., Zhang, T., Daley, D. & Greenwood, C.M. A novel statistical method for modeling covariate effects in bisulfite sequencing derived measures of DNA methylation. *Biometrics* (2020). [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13307) & [R package](https://github.com/kaiqiong/SOMNiBUS)
 
 - Alqahtani, M., Garfinkle, R., **Zhao, K.**, Vasilevsky, C.A., Morin, N., Ghitulescu, G., Faria, J. &  Boutros, M. Can we better predict readmission for dehydration following creation of a diverting loop ileostomy: development and validation of a prediction model and web-based risk calculator. *Surgical Endoscopy* (2020). [Link to paper](https://link.springer.com/article/10.1007%2Fs00464-019-07069-2) & [Software](https://kaiqiong.shinyapps.io/dehydration_app/)
 
+	
+-Zeng, Y., **Zhao, K.**, Oros Klein, K., Shao, X., Fritzler, M.J., Hudson, M., Colmegna, I., Pastinen, T., Bernatsky, S. & Greenwood, C.M.T. Thousands of CpGs Show DNA Methylation Differences in ACPA-Positive Individuals.*Genes* (2021). [Link to paper](https://www.mdpi.com/2073-4425/12/9/1349)
+
 - Caillon, A., **Zhao, K**., Klein, K., Greenwood, C.M., Lu, Z., Paradis, P. &  Schiffrin, E.
 	 High systolic blood pressure at hospital admission is an important risk factor in models predicting outcome of COVID-19 patients. *American Journal of Hypertension* (2021). [Link to paper](https://academic.oup.com/ajh/advance-article/doi/10.1093/ajh/hpaa225/6056792) 
 	
-- Zhou, S., Butler-Laporte, G., Nakanishi, T., Morrison, D., Afilalo, J., Afilalo, M., Laurent, L., Pietzner, M., Kerrison, N., **Zhao, K**., ..., Richards, M.  A Neanderthal OAS1 Isoform Protects Against COVID-19 Susceptibility and Severity: Results from Mendelian Randomization and Case-Control Studies. *Nature Medicine* (2021). Accepted.
+- Zhou, S., Butler-Laporte, G., Nakanishi, T., Morrison, D., Afilalo, J., Afilalo, M., Laurent, L., Pietzner, M., Kerrison, N., **Zhao, K**., ..., Richards, M.  A Neanderthal OAS1 Isoform Protects Against COVID-19 Susceptibility and Severity: Results from Mendelian Randomization and Case-Control Studies. *Nature Medicine* (2021). [Link to paper](https://www.nature.com/articles/s41591-021-01281-1).
 	
 - Caminsky, N., Hamad, D., He, H.B., **Zhao, K**., Boutros, M., Feldman, L.S., Lee, L. & Fiore, J.F. Optimizing discharge decision-making in colorectal surgery: a prospective cohort study of discharge practices in a recently implemented enhanced recovery pathway. *Colorectal Dis* (2021). [Link to paper](https://doi.org/10.1111/codi.15525)
 
