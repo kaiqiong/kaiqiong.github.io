@@ -19,7 +19,7 @@ A sparse-smooth modeling method for identifying SNPs associated with methylation
 
 - [MoMotif](https://github.com/kaiqiong/MoMotif)
 
-A bioinformatics tool for a sensitive identification, at the single base-pair resolution, of complex, or subtle, alterations to core binding motifs, discerned from ChIP-seq data.[Paper] (https://academic.oup.com/nar/article/50/15/8441/6659876?login=false)
+A bioinformatics tool for a sensitive identification, at the single base-pair resolution, of complex, or subtle, alterations to core binding motifs, discerned from ChIP-seq data. [Paper](https://academic.oup.com/nar/article/50/15/8441/6659876?login=false)
 
 ## Shiny Application
 
