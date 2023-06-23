@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a CANSSI distinguished postdoctoral fellow at the University of Toronto and the University of Alberta, under the supervision of [Dr. Linglong Kong](https://sites.ualberta.ca/~lkong/) and [Dr. Dehan Kong](https://www.statistics.utoronto.ca/people/directories/all-faculty/dehan-kong).
-I obtained my Ph.D. in Biostatistics from the [Department of Epidemiology, Biostatistics and Occupational Health](https://www.mcgill.ca/epi-biostat-occh/academic-programs/grad/biostatistics) at [McGill University](https://www.mcgill.ca). My Ph.D. co-supervisors are [Dr. Celia M.T. Greenwood ](https://www.mcgill.ca/statisticalgenetics/) and [Dr. Karim Oualkacha](https://karimoualkacha.uqam.ca/en/home/).
+I'm an Assistant Professor in the [Department of Mathematics and Statistics](https://www.yorku.ca/science/mathstats/), York University. 
 
 My research interests include:
 
@@ -17,3 +16,7 @@ My research interests include:
 * penalized regression methods
 * statistical computing
 * multi-omics data integration
+* Mendelian randomization
+
+I was a CANSSI distinguished postdoctoral fellow at the University of Toronto and the University of Alberta, under the supervision of [Dr. Linglong Kong](https://sites.ualberta.ca/~lkong/) and [Dr. Dehan Kong](https://www.statistics.utoronto.ca/people/directories/all-faculty/dehan-kong).
+I obtained my Ph.D. in Biostatistics from the [Department of Epidemiology, Biostatistics and Occupational Health](https://www.mcgill.ca/epi-biostat-occh/academic-programs/grad/biostatistics) at [McGill University](https://www.mcgill.ca). My Ph.D. co-supervisors are [Dr. Celia M.T. Greenwood ](https://www.mcgill.ca/statisticalgenetics/) and [Dr. Karim Oualkacha](https://karimoualkacha.uqam.ca/en/home/).
