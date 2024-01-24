@@ -7,6 +7,14 @@ author_profile: true
 
 ## Course Instructor
 
+* MATH 4330: Applied Categorical Data Analysis
+  * York University, Fall 2023
+  
+  
+* MATH 4130B/6633: Time Series Analysis
+  * York University, Fall 2023 
+  
+
 * STAT 161: Introductory Statistics for Business and Economics
   * University of Alberta, Winter 2022
 
