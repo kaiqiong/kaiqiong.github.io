@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kaiqiong Zhao | Statistical Innovation for Biomedical Discovery"
+title: "Statistical Innovation for Biomedical Discovery"
 excerpt: "Zhao Lab"
 author_profile: true
 redirect_from: 
