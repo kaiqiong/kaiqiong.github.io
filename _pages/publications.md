@@ -7,6 +7,9 @@ author_profile: true
 
 ### Published Articles
 
+
+
+
 - $^\star$Lebeau, B., $^\star$ **Zhao, K.**, Jangal, M., Zhao, T., Guerra, M., Greenwood, C.M.T. &  Witcher, M.  Single base-pair resolution analysis of DNA binding motif with MoMotif reveals an oncogenic function of CTCF zinc-finger 1 mutation. *Nucleic Acids Research* (2022). $^\star$ co-first authorship. [Link to paper](https://academic.oup.com/nar/article/50/15/8441/6659876?login=false) & [R package](https://github.com/kaiqiong/MoMotif)
 
 - **Zhao K.**, Oualkacha, K., Zeng, Y., Shen, C., Lakhal-Chaieb, L., Labbe, A., Klein, K.,  Hudson, M., Colmegna, I., Pastinen, T., Bernatsky, S., & Greenwood, C.M.T.  A hierarchical quasi-binomial varying coefficient mixed model for detecting differentially methylated regions in bisulfite sequencing data: applications to a preclinical study on rheumatoid arthritis.   *Submitted* (2022+). [Link to paper](https://arxiv.org/abs/2101.07374) & [R package](https://github.com/kaiqiong/SOMNiBUS) 
