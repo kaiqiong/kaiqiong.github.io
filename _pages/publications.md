@@ -7,8 +7,13 @@ author_profile: true
 
 ### Published Articles
 
+- $^\dagger$ **Zhao, K.**, Yang, Y., Oualkacha, K., Zeng, Y., Klein, K., Hudson, M., Colmegna, I., Bernatsky, S., & Greenwood, C.M.T. A novel high-dimensional model for identifying regional DNA methylation QTLs. *Biostatistics* (2025). Accepted.  
 
+- $^\dagger$ **Zhao, K.**, Oualkacha, K., Zeng, Y., Shen, C., Lakhal-Chaieb, L., Labbe, A., Klein, K., Hudson, M., Colmegna, I., Pastinen, T., Bernatsky, S., & Greenwood, C.M.T. Addressing dispersion in mis-measured multivariate binomial outcomes: a novel statistical approach for detecting differentially methylated regions in bisulfite sequencing data. *Statistics in Medicine* (2024). [PMID: 38932470](https://pubmed.ncbi.nlm.nih.gov/38932470/)  
 
+- Yu, P., **Zhao, K.**, Jiang, B., Petkova, E., Tarpey, T., & Ogden, T.R. Associations between EEG-defined subgroups and antidepressant response: a joint mixture of probabilistic multilinear Principal Component Analysis modeling approach. *Statistics and Its Interface* (2024).  
+
+- Yu, J.C.Y., Zeng, Y., **Zhao, K.**, et al. Novel insights into systemic sclerosis using a sensitive computational method to analyze Whole-Genome Bisulfite Sequencing data. *Clinical Epigenetics* (2023). [PMID: 37270501](https://pubmed.ncbi.nlm.nih.gov/37270501/)  
 
 - $^\star$Lebeau, B., $^\star$ **Zhao, K.**, Jangal, M., Zhao, T., Guerra, M., Greenwood, C.M.T. &  Witcher, M.  Single base-pair resolution analysis of DNA binding motif with MoMotif reveals an oncogenic function of CTCF zinc-finger 1 mutation. *Nucleic Acids Research* (2022). $^\star$ co-first authorship. [Link to paper](https://academic.oup.com/nar/article/50/15/8441/6659876?login=false) & [R package](https://github.com/kaiqiong/MoMotif)
 
