@@ -5,7 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
-- **September 2025** — Our paper *“A novel high-dimensional model for identifying regional DNA methylation QTLs”* was accepted in *Biostatistics*.  
+- **September 2025** — Our paper *“A novel high-dimensional model for identifying regional DNA methylation QTLs”* was accepted in *Biostatistics*. [Link](https://doi.org/10.1093/biostatistics/kxaf032)
+
 - **August 2025** — Attended the High Dimensional Data Analysis Workshop in Beaver Island, Michigan.  
 
 - **July 2025** — Welcomed Mitacs interns Yushi Huang and Jingpu Ding to our group.  

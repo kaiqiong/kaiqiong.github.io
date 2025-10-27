@@ -7,7 +7,7 @@ author_profile: true
 
 ### Published Articles
 
-- $^\dagger$ **Zhao, K.**, Yang, Y., Oualkacha, K., Zeng, Y., Klein, K., Hudson, M., Colmegna, I., Bernatsky, S., & Greenwood, C.M.T. A novel high-dimensional model for identifying regional DNA methylation QTLs. *Biostatistics* (2025). Accepted.  
+- $^\dagger$ **Zhao, K.**, Yang, Y., Oualkacha, K., Zeng, Y., Klein, K., Hudson, M., Colmegna, I., Bernatsky, S., & Greenwood, C.M.T. A novel high-dimensional model for identifying regional DNA methylation QTLs. *Biostatistics* (2025). [Link](https://doi.org/10.1093/biostatistics/kxaf032).  
 
 - $^\dagger$ **Zhao, K.**, Oualkacha, K., Zeng, Y., Shen, C., Lakhal-Chaieb, L., Labbe, A., Klein, K., Hudson, M., Colmegna, I., Pastinen, T., Bernatsky, S., & Greenwood, C.M.T. Addressing dispersion in mis-measured multivariate binomial outcomes: a novel statistical approach for detecting differentially methylated regions in bisulfite sequencing data. *Statistics in Medicine* (2024). [PMID: 38932470](https://pubmed.ncbi.nlm.nih.gov/38932470/)  
 
