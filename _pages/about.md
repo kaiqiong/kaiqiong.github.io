@@ -3,6 +3,10 @@ permalink: /
 title: "Statistical Innovation for Biomedical Discovery"
 excerpt: "Zhao Lab"
 author_profile: true
+header:
+  overlay_image: /assets/img/sparseSOMNiBUS-overview.png
+  overlay_filter: 0.25
+  caption: "Overview of sparseSOMNiBUS analysis pipeline (Zhao et al., *Biostatistics*, 2025)."
 redirect_from: 
   - /about/
   - /about.html
