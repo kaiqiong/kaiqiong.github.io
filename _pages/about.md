@@ -9,23 +9,20 @@ redirect_from:
 ---
 
 
-Welcome to the **Zhao Lab** in the Department of Mathematics & Statistics at York University (Toronto, Canada).  
-Our research focuses on developing *innovative statistical and computational methods* for analyzing high-dimensional biological data, with applications in **genomics, epigenomics, and precision health**.
+Welcome to the **Zhao Lab** in the Department of Mathematics & Statistics at York University (Toronto, Canada). Our research focuses on developing *innovative statistical and computational methods* for analyzing high-dimensional biological data, with applications in genomics, epigenomics, and precision health. By connecting methodological innovation with real-world biomedical problems, our research advances both fundamental statistical methodology and impactful health discoveries. 
 
 
 ---
 
 ## 🧭 Research Overview
 
-We work at the interface of **statistics**, **genomics**, and **causal inference**, building models that make sense of high-dimensional, noisy, and biologically complex data.
+We work at the interface of **statistics**, **genomics**, and **machine learning**, building models that make sense of high-dimensional, noisy, and biologically complex data.
 
 Our current research themes include:
 
 - **High-dimensional inference in genetic and epigenetic association**  
   Regional DNA methylation QTL mapping using penalized and smooth functional modeling.
 
-- **Causal inference and Mendelian randomization**  
-  Accounting for correlated genetic instruments and sample overlap in large-scale summary data.
 
 - **Wearable omics and dynamic precision health**  
   Integrating wearable sensor data with genomic, proteomic, and metabolomic features for disease phenotyping.
