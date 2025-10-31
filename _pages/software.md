@@ -11,8 +11,8 @@ author_profile: true
 [![](https://img.shields.io/badge/download-/month-green.svg)](https://bioconductor.org/packages/stats/bioc/SOMNiBUS)
 [![](https://img.shields.io/badge/lifecycle-SOMNiBUS-blue.svg)](https://www.tidyverse.org/lifecycle/#SOMNiBUS)
 
-A method for estimating smooth covariate effects and identifying differentially methylated regions, which copes with experimental errors and provides reliable inference. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13307)
-
+A method for estimating smooth covariate effects and identifying differentially methylated regions, which copes with experimental errors and provides reliable inference. [Paper 1 ](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13307)
+[Paper 2 ](https://onlinelibrary.wiley.com/doi/10.1002/sim.10149)
 - [sparseSOMNiBUS](https://github.com/kaiqiong/sparseSOMNiBUS), coded with *Rcpp*
 
 A sparse-smooth modeling method for identifying SNPs associated with methylation levels in a region, which copes with high-dimensional feature space and allows variable selection.
