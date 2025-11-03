@@ -30,7 +30,7 @@ Our current research themes include:
 ---
 
 
-## 🔬 Recent Highlight: sparseSOMNiBUS
+## 🔬 Regional Methylation Modeling — sparseSOMNiBUS
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/sparseSOMNiBUS-overview.png' | relative_url }}" alt="sparseSOMNiBUS overview" width="95%">
@@ -57,9 +57,38 @@ It unifies smooth functional modeling with sparse variable selection, allowing a
 `sparseSOMNiBUS` fits a penalized regression model balancing **smoothness** and **sparsity**.  
 The tuning parameter λ is selected via cross-validation using both the *minimum mean deviance (λ_min)* and the *1-SE rule (λ_1SE)* to achieve model parsimony and interpretability.
 
-
 ---
 
+
+## 🧬 Sequence-Level Motif Analysis — MoMotif
+
+<div style="text-align:center; margin-top:20px; margin-bottom:20px;">
+  <img src="{{ '/assets/img/momotif-pipeline.png' | relative_url }}" alt="MoMotif pipeline (Figure 2)" width="80%">
+  <p><em>Figure 2 from Lebeau&Zhao et al., NAR 2022 — MoMotif pipeline integrating csaw, rGADEM, and discriminative motif analysis.</em></p>
+</div>
+
+<div style="text-align:center; margin-top:10px; margin-bottom:30px;">
+  <img src="{{ '/assets/img/momotif-discriminative.png' | relative_url }}" alt="MoMotif discriminative motif discovery (Figure 3C–E)" width="80%">
+  <p><em>MoMotif identifies extended bases of CTCF motif lost upon KI/KI mutation (base-wise p-value scan and motif logos).</em></p>
+</div>
+
+**MoMotif** (*Modification of motif analysis at single base-pair resolution*)  
+<em>Nucleic Acids Research</em>, 2022.  
+[Lebeau B*, Zhao K*, Jangal M, Zhao T, Guerra M, Greenwood CMT, Witcher M.](https://doi.org/10.1093/nar/gkac658)  
+(*co-first authors)
+
+MoMotif is a discriminative motif analysis and visualization framework that identifies **condition-specific alterations in transcription factor binding motifs** from ChIP-seq data.  
+It integrates differential binding detection (*csaw*), de novo motif discovery (*rGADEM*), and base-wise statistical testing (*MoMotif* R package) to pinpoint **single-nucleotide changes in binding preference** across experimental conditions.
+
+Applied to **CTCF zinc-finger mutations**, MoMotif revealed how a **single base change in the genome** alters DNA-binding specificity aand can impact local chromatin organization.   
+This work represents the *molecular-scale foundation* of our broader research program—linking sequence-level perturbations (*MoMotif*) to regional methylation modeling (*sparseSOMNiBUS*) and genome-wide causal inference (*ongoing*).
+
+<div style="text-align:center; margin-top:10px;">
+  <a href="https://github.com/kaiqiong/MoMotif" class="btn btn--primary">View on GitHub</a>
+  <a href="https://doi.org/10.1093/nar/gkac658" class="btn btn--info">Read the Paper</a>
+</div>
+
+---
 ## 🧑🔬 Join Us
 
 We are always looking for motivated students and postdocs interested in:
