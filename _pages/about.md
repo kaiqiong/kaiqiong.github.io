@@ -40,7 +40,6 @@ Our current research themes include:
 `sparseSOMNiBUS` (**Sparse Smooth Omnibus Model for Regional DNA Methylation QTL Mapping**) is our newly published method for identifying **regional mQTLs** using high-resolution bisulfite sequencing data.  
 It unifies smooth functional modeling with sparse variable selection, allowing accurate estimation of SNP–CpG associations across genomic regions.
 
-> **Reference**  
 > Zhao K, Yang AY, Oualkacha K, Zeng Y, Klein K, Hudson M, Colmegna I, Bernatsky S, Greenwood CMT.  
 > *A novel high-dimensional model for identifying regional DNA methylation QTLs.*  
 > *Biostatistics*, Volume 26, Issue 1, 2025, kxaf032.  
@@ -72,7 +71,7 @@ The tuning parameter λ is selected via cross-validation using both the *minimum
   <p><em>MoMotif identifies extended bases of CTCF motif lost upon KI/KI mutation (base-wise p-value scan and motif logos).</em></p>
 </div>
 
-**MoMotif** (*Modification of motif analysis at single base-pair resolution*)  
+Single base-pair resolution analysis of DNA binding motif with MoMotif reveals an oncogenic function of CTCF zinc-finger 1 mutation  
 <em>Nucleic Acids Research</em>, 2022.  
 [Lebeau B*, Zhao K*, Jangal M, Zhao T, Guerra M, Greenwood CMT, Witcher M.](https://doi.org/10.1093/nar/gkac658)  
 (*co-first authors)
