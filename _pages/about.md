@@ -56,6 +56,10 @@ It unifies smooth functional modeling with sparse variable selection, allowing a
 `sparseSOMNiBUS` fits a penalized regression model balancing **smoothness** and **sparsity**.  
 The tuning parameter λ is selected via cross-validation using both the *minimum mean deviance (λ_min)* and the *1-SE rule (λ_1SE)* to achieve model parsimony and interpretability.
 
+<div style="text-align:center; margin-top:10px;">
+  <a href="https://github.com/kaiqiong/sparseSOMNiBUS" class="btn btn--primary">View on GitHub</a>
+  <a href="https://doi.org/10.1093/biostatistics/kxaf032" class="btn btn--info">Read the Paper</a>
+</div>
 ---
 
 
