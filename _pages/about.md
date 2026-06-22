@@ -105,4 +105,26 @@ We are always looking for motivated students and postdocs interested in:
 
 ---
 
+## 🚀 Open Position: Postdoctoral Fellow
 
+I am currently recruiting a **Postdoctoral Fellow** to work on an exciting 
+project at the intersection of statistical methodology and biomedical discovery.
+
+**Project:** Integrative modeling of wearable time-series and multi-omics data 
+to better understand hypermobile Ehlers-Danlos syndrome (hEDS) — funded by the 
+[Banting-CANSSI Discovery Award in Biostatistics](https://canssiontario.utoronto.ca/2026-banting-canssi-discovery-award-recipient-dr-kaiqiong-zhao/news/).
+
+**What we offer:**
+- Initial appointment of one year, with possibility of extension subject to 
+funding availability
+- Competitive salary
+- Collaborative research environment with strong connections to biomedical 
+partners 
+
+**Ideal candidates have:**
+- A PhD in Statistics, Biostatistics, or a related field
+- Strong background in statistical modeling and/or computation
+- Interest in methods development for complex biomedical data
+
+📧 To apply, please send your CV to 
+[kaiqiong@yorku.ca](mailto:kaiqiong@yorku.ca)
