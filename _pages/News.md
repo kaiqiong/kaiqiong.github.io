@@ -5,6 +5,12 @@ permalink: /news/
 author_profile: true
 ---
 
+- **June 2026** — We are delighted to share that Dr. Kaiqiong Zhao has received a **Banting-CANSSI Discovery Award 
+in Biostatistics**! The award supports our research on integrative statistical 
+modeling of wearable and multi-omics data to better understand hypermobile 
+Ehlers-Danlos syndrome (hEDS). 
+[Read more](https://canssiontario.utoronto.ca/2026-banting-canssi-discovery-award-recipient-dr-kaiqiong-zhao/news/)
+
 - **September 2025** — Our paper *“A novel high-dimensional model for identifying regional DNA methylation QTLs”* was accepted in *Biostatistics*. [Link](https://doi.org/10.1093/biostatistics/kxaf032)
 
 - **August 2025** — Attended the High Dimensional Data Analysis Workshop in Beaver Island, Michigan.  
